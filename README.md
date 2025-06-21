@@ -1,48 +1,28 @@
-<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 2rem; border-radius: 15px; color: #fff; font-family: 'Segoe UI', sans-serif; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
-
-## 👨‍💻 Merhaba, Ben 1owkeydev
-
-> "Kodun şiiri, işlevin sadeliğinde gizlidir."
-
-<p style="display: flex; align-items: center; gap: 15px;">
-  <span style="font-size: 1.2rem; line-height: 1.6;">🎯</span>
-  <span>Sessiz, sade ve odaklı bir geliştiriciyim</span>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lowkeydev/lowkeydev/main/assets/logo.png" alt="lowkeydev logo" width="120" />
 </p>
 
-<p style="display: flex; align-items: center; gap: 15px;">
-  <span style="font-size: 1.2rem; line-height: 1.6;">✨</span>
-  <span>Temiz, okunabilir ve amaca hizmet eden kodlar yazmayı severim</span>
+<h1 align="center" style="font-weight: 900; letter-spacing: 2px;">
+  lowkeydev
+</h1>
+
+<p align="center" style="font-size: 18px; color: #666; margin-top: -10px;">
+  Sessizlikte üretirim.<br>
+  <strong style="color: #333;">Kodda kusur arama, çünkü orada yok.</strong>
 </p>
 
-<p style="display: flex; align-items: center; gap: 15px;">
-  <span style="font-size: 1.2rem; line-height: 1.6;">⚙️</span>
-  <span>Otomasyon, verimlilik araçları ve minimal projeler geliştiririm</span>
+<p align="center" style="font-style: italic; color: #1db954; font-size: 20px; margin-top: 30px;">
+  "Çünkü uyanmış bir zihin, bir daha uyuyamaz."
 </p>
 
-<p style="display: flex; align-items: center; gap: 15px;">
-  <span style="font-size: 1.2rem; line-height: 1.6;">🚀</span>
-  <span>Gürültü yok, gösteriş yok. Sadece işleyen kod</span>
+<p align="center" style="margin-top: 40px; letter-spacing: 4px; color: #999;">
+  Minimal &nbsp; • &nbsp; Odaklı &nbsp; • &nbsp; Etkili
 </p>
 
 ---
 
-## 📌 Güncel Proje: YKS26 Focus Mode
-
-```csharp
-// Modern C# WPF ile geliştirildi
-public class YKS26FocusMode : ProfessionalDesktopApp 
-{
-    public string TargetAudience => "YKS 2026 adayları";
-    public string CoreFeatures => "Odak modu, zaman yönetimi, kişiselleştirilmiş planlama";
-    public string TechStack => "C#, WPF, MVVM Pattern";
-}
-🌈 Yakında Gelecekler:
-Pomodoro entegrasyonu
-
-Verimlilik analiz panosu
-
-Çapraz cihaz senkronizasyonu
-
-Özel ders programı oluşturucu
-
-<div style="margin-top: 20px; text-align: center; font-size: 0.9rem; color: #a0a0a0;"> "Basitlik, nihayi sofistikasyondur." - Leonardo da Vinci </div> </div> ```
+<p align="center" style="margin-top: 50px;">
+  <a href="https://github.com/lowkeydev" target="_blank" style="margin: 0 10px; text-decoration: none; color: #1db954; font-weight: 600;">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/lowkeydev" target="_blank" style="margin: 0 10px; text-decoration: none; color: #1db954; font-weight: 600;">LinkedIn</a> • 
+  <a href="mailto:email@lowkeydev.com" style="margin: 0 10px; text-decoration: none; color: #1db954; font-weight: 600;">E-posta</a>
+</p>
