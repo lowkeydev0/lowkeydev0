@@ -43,7 +43,7 @@
 ## 📫 Bana ulaş
 
 💬 Her türlü fikir, iş birliği ve proje için iletişime geçebilirsin:  
-📧 **your@email.com**
+📧 lowkeydev0
 
 <p align="center">
   <i>“Az kod, net sonuç.”</i>
