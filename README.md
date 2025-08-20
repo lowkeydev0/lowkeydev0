@@ -1,10 +1,5 @@
 <h1 align="center">👋 Merhaba, ben <code>lowkeydev</code></h1>
 
-<p align="center">
-🧘 Sessiz, sade ve odaklı bir geliştiriciyim.<br>
-💻 Temiz ve verimli kod yazmayı, arayüzleri modernleştirmeyi ve sistemleri otomatize etmeyi seviyorum.<br>
-🚀 Çoğunlukla oyun altyapıları ve masaüstü/web uygulamaları geliştiriyorum.
-</p>
 
 ---
 
@@ -34,7 +29,7 @@
 
 ## 🔭 Şu anda neler yapıyorum?
 
-- 🎮 **RAGE:MP** ve **FiveM** altyapılarında özel sistemler geliştiriyorum.  
+- 🎮 **FiveM** altyapılarında özel sistemler geliştiriyorum.  
 - 🖥️ **Windows masaüstü uygulamaları** geliştiriyorum. (WPF / WinForms / .NET)  
 - 🌐 Basit ve işlevsel **web arayüzleri** ve kontrol panelleri yazıyorum.  
 
@@ -45,9 +40,6 @@
 💬 Her türlü fikir, iş birliği ve proje için iletişime geçebilirsin:  
 📧 lowkeydev0
 
-<p align="center">
-  <i>“Az kod, net sonuç.”</i>
-</p>
 
 
 
